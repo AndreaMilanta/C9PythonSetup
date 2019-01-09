@@ -11,7 +11,7 @@ Simply clone the repository in the C9 environment or download in the environment
 
 For cloning use
 
-`git clone git@github.com:AndreaMilanta/C9PythonSetup.git`
+`git clone https://github.com/AndreaMilanta/C9PythonSetup.git`
 
 
 ## Execution
