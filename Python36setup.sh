@@ -16,8 +16,3 @@ sudo python36 -m pip install --upgrade pip
 #setup aliases
 echo -e "\nalias pip='sudo /usr/local/bin/pip3.6'" >> ~/.bashrc
 echo -e "\nalias python='python36'" >> ~/.bashrc
-source ~/.bashrc
-. ~/.bashrc
-
-#upgrade pip
-sudo /usr/local/bin/pip3.6 install --upgrade pip
