@@ -10,6 +10,9 @@
 sudo yum -y update
 sudo yum -y install python36 # Installs Python 3.6.
 
+#upgrade pip
+sudo python36 -m pip install --upgrade pip
+
 #setup aliases
 echo -e "\nalias pip='sudo /usr/local/bin/pip3.6'" >> ~/.bashrc
 echo -e "\nalias python='python36'" >> ~/.bashrc
