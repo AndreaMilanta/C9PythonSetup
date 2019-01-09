@@ -11,13 +11,13 @@ Simply clone the repository in the C9 environment or download in the environment
 
 For cloning use
 
-`git clone `
+`git clone git@github.com:AndreaMilanta/C9PythonSetup.git`
 
 
 ## Execution
 To execute the file and prepare the environment for Python 3.6 development run the following commands
 
-`cd /path/to/script`
+`cd /path/to/repos/C9PythonSetup/`
 
 `chmod +x chmod +x Python36setup.sh`
 
